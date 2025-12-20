@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihirb-6
-- 👀 I’m interested in ... amateur astrophotography, instrumentation
-- 🌱 I’m currently learning ... digital signal processing, python (NumPy and Matplotlib),
+- 👀 I’m interested in ... orbital mechanics, instrumentation, astrophotography
+- 🌱 I’m currently learning ... how to make a GUI for my lightcurve project,
 - 💞️ I’m looking to collaborate on ... instrumentation research
 - 📫 How to reach me ... mihirbhagat15@gmail.com
 - ⚡ Fun fact: ... I love tarantino movies!
