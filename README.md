@@ -1,8 +1,13 @@
- Hi, I’m Mihir\n
+ Hi, I’m Mihir
+ 
 I’m interested in orbital mechanics, instrumentation, and astrophotography
+
 I’m currently learning how to make a GUI for my lightcurve project,
+
 I’m looking to collaborate on instrumentation research
+
 How to reach me: mihirbhagat15@gmail.com
+
 Fun fact: I love Tarantino movies!
 
 <!---
