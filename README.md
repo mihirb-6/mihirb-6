@@ -1,4 +1,4 @@
- Hi, I’m Mihir
+ Hi, I’m Mihir\n
 I’m interested in orbital mechanics, instrumentation, and astrophotography
 I’m currently learning how to make a GUI for my lightcurve project,
 I’m looking to collaborate on instrumentation research
