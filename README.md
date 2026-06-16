@@ -1,10 +1,8 @@
- Hi, I’m Mihir
+Hi, I’m Mihir
  
 I’m interested in orbital mechanics, instrumentation, and astrophotography
 
-I’m currently developing a naive lambert solver to learn Rust
-
-I’m looking to collaborate on instrumentation/sensor research
+I’m currently working on a porkchop plot tool using Rust and Python.
 
 How to reach me: mihirbhagat15@gmail.com
 
